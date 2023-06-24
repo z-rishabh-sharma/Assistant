@@ -1,4 +1,4 @@
-# Assitant
+# Assistant
 Repo Description: This repository contains a Python-based assistant that can perform various tasks based on user input. This virtual assistant can perform the task as the user will give.
 
 # Features
