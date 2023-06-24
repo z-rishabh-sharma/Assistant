@@ -1,5 +1,5 @@
 import speech_recognition as sr
-from main import m
+from logic.main import m
 
 class SpeechToText:
     def __init__(self):
