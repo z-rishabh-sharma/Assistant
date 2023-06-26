@@ -1,0 +1,5 @@
+gtts
+playsound
+pywhatkit
+pyautogui
+SpeechRecognition

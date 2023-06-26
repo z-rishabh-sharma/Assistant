@@ -1,0 +1,18 @@
+Functionality:
+
+1: User can tell the assistant to do anything that are related to futher thing that are:
+- Googling it.
+- Searching for a website on google and opening in browser.
+- Opening any application like whatsapp
+- Searching anything on youtube
+
+
+Flow of the assistant:
+
+- start the assistant
+- give her task 
+- get stuck, she will ask for confirmation
+- provide you the result
+- you can pause the assisant by saying "stop" and say "start" to again working the assistant
+- stop the assistant say "quit"
+- or press ctrl+c

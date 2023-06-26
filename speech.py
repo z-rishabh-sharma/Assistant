@@ -13,7 +13,7 @@ class SpeechToText:
             audio = self.recognizer.listen(source, phrase_time_limit=5)  # Set a time limit of 5 seconds for speech recognition
 
         try:
-            if(m.stop == False):
+            if(m.stop == False or m.pause==False):
                 sentence = self.recognizer.recognize_google(audio)
                 print("You said:", sentence)
                 return sentence.lower()
