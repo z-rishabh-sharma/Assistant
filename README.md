@@ -9,22 +9,25 @@ Written in Python, making it accessible and customizable.
 
 
 # Installation
-Clone the repository: git clone https://github.com/your-username/your-repo.git
+Clone the repository: git clone https://github.com/z-rishabh-sharma/Assistant.git
 Install the required dependencies: pip install -r requirements.txt
-Run the program: python speech.py
+Create a virtual environment python3 -m venv env
+Run on terminal: source env/bin/activate
+Run the program: python3 speech.py
 
 
 # Usage
 Start the program.
-Speak or enter commands to interact with the assistant.
+Speak to interact with the assistant.
 The assistant will perform the requested tasks and provide appropriate responses.
+If she doesn't understand, she will ask more briefly about the question.
+To terminate the program say "quit".
 
 
 # Supported Commands
-Task 1: Describe the functionality of task 1.
-Task 2: Describe the functionality of task 2.
-Task 3: Describe the functionality of task 3.
-Please refer to the program documentation for a comprehensive list of supported commands and their usage.
+Task 1: Searching anything on Google.
+Task 2: Searching anything on Youtube.
+Task 3: Sending a message on WhatsApp.
 
 # Contributing
 Contributions are welcome! If you have any ideas, improvements, or bug fixes, please follow these steps:
