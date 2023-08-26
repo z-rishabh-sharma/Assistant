@@ -11,9 +11,9 @@ The assistant can understand and execute user commands.<br>
 
 # Installation
 Clone the repository: git clone https://github.com/z-rishabh-sharma/Assistant.git<br>
-Install the required dependencies: <br> -- pip install -r requirements.txt<br>
 -- Create a virtual environment python3 -m venv env <br>
 -- Run on terminal: source env/bin/activate <br>
+-- Install the required dependencies: <br> -- pip install -r requirements.txt<br>
 -- Run the program: python3 speech.py
 
 
