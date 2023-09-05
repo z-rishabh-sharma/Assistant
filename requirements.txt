@@ -3,3 +3,5 @@ playsound
 pywhatkit
 pyautogui
 SpeechRecognition
+sentence-transformers
+torch
